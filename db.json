@@ -4,21 +4,21 @@
       "id": 1,
       "name": "White Women's T-Shirt",
       "category": "Women's T-Shirts",
-      "price": 21,
+      "price": 210,
       "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere tempore ducimus rerum animi architecto impedit, voluptatemnecessitatibus autem distinctio tempora!"
     },
     {
       "id": 2,
       "name": "Purple Women's T-Shirt",
       "category": "Women's T-Shirts",
-      "price": 22,
+      "price": 220,
       "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere tempore ducimus rerum animi architecto impedit, voluptatem necessitatibus autem distinctio tempora!"
     },
     {
       "id": 3,
       "name": "Pink Women's T-Shirt",
       "category": "Women's T-Shirts",
-      "price": 23,
+      "price": 230,
       "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere tempore ducimus rerum animi architecto impedit, voluptatemnecessitatibus autem distinctio tempora!"
     },
 
@@ -26,57 +26,57 @@
       "id": 4,
       "name": "Violet Men's T-Shirt",
       "category": "Men's T-Shirts",
-      "price": 24
+      "price": 240
     },
     {
       "id": 5,
       "name": "Green Men's T-Shirt",
       "category": "Men's T-Shirts",
-      "price": 25
+      "price": 250
     },
     {
       "id": 6,
       "name": "Grey Men's T-Shirt",
       "category": "Men's T-Shirts",
-      "price": 26
+      "price": 260
     },
 
     {
       "id": 7,
       "name": "Spring Dress",
       "category": "Dresses",
-      "price": 27
+      "price": 270
     },
     {
       "id": 8,
       "name": "Morning Dress",
       "category": "Dresses",
-      "price": 28
+      "price": 280
     },
     {
       "id": 9,
       "name": "Casual Dress",
       "category": "Dresses",
-      "price": 29
+      "price": 290
     },
 
     {
       "id": 10,
       "name": "Great Dizzy Socks",
       "category": "Dizzy socks",
-      "price": 30
+      "price": 300
     },
     {
       "id": 11,
       "name": "Colorful Dizzy Socks",
       "category": "Dizzy socks",
-      "price": 31
+      "price": 310
     },
     {
       "id": 12,
       "name": "Patterned Novelty Socks",
       "category": "Dizzy socks",
-      "price": 32
+      "price": 320
     },
 
     {
@@ -96,25 +96,6 @@
       "name": "Red Sunglasses",
       "category": "Women's sunglasses",
       "price": 90
-    },
-
-    {
-      "id": 16,
-      "name": "Good Sunglasses",
-      "category": "Men's sunglasses",
-      "price": 100
-    },
-    {
-      "id": 17,
-      "name": "Non-polarized Sunglasses",
-      "category": "Men's sunglasses",
-      "price": 200
-    },
-    {
-      "id": 18,
-      "name": "Brutal Sunglasses",
-      "category": "Men's sunglasses",
-      "price": 300
     }
   ]
 }
