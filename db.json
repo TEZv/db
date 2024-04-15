@@ -2,100 +2,93 @@
   "products": [
     {
       "id": 1,
-      "name": "White Women's T-Shirt",
-      "category": "Women's T-Shirts",
-      "price": 210,
-      "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere tempore ducimus rerum animi architecto impedit, voluptatemnecessitatibus autem distinctio tempora!"
+      "name": "Hydrating Facial Mist",
+      "category": "Cosmetics",
+      "price": 15
     },
     {
       "id": 2,
-      "name": "Purple Women's T-Shirt",
-      "category": "Women's T-Shirts",
-      "price": 220,
-      "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere tempore ducimus rerum animi architecto impedit, voluptatem necessitatibus autem distinctio tempora!"
+      "name": "Jasmine Perfume Oil",
+      "category": "Perfumes",
+      "price": 25
     },
     {
       "id": 3,
-      "name": "Pink Women's T-Shirt",
-      "category": "Women's T-Shirts",
-      "price": 230,
-      "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere tempore ducimus rerum animi architecto impedit, voluptatemnecessitatibus autem distinctio tempora!"
+      "name": "Night Renewal Cream",
+      "category": "Cremes",
+      "price": 30
     },
-
     {
       "id": 4,
-      "name": "Violet Men's T-Shirt",
-      "category": "Men's T-Shirts",
-      "price": 240
+      "name": "Lavender Shower Gel",
+      "category": "Cosmetics",
+      "price": 12
     },
     {
       "id": 5,
-      "name": "Green Men's T-Shirt",
-      "category": "Men's T-Shirts",
-      "price": 250
+      "name": "Sandalwood Cologne",
+      "category": "Perfumes",
+      "price": 30
     },
     {
       "id": 6,
-      "name": "Grey Men's T-Shirt",
-      "category": "Men's T-Shirts",
-      "price": 260
+      "name": "Anti-Aging Eye Cream",
+      "category": "Cremes",
+      "price": 35
     },
-
     {
       "id": 7,
-      "name": "Spring Dress",
-      "category": "Dresses",
-      "price": 270
+      "name": "Rose Petal Lip Balm",
+      "category": "Cosmetics",
+      "price": 8
     },
     {
       "id": 8,
-      "name": "Morning Dress",
-      "category": "Dresses",
-      "price": 280
+      "name": "Citrus Perfume Spray",
+      "category": "Perfumes",
+      "price": 28
     },
     {
       "id": 9,
-      "name": "Casual Dress",
-      "category": "Dresses",
-      "price": 290
+      "name": "Moisturizing Hand Cream",
+      "category": "Cremes",
+      "price": 15
     },
-
     {
       "id": 10,
-      "name": "Great Dizzy Socks",
-      "category": "Dizzy socks",
-      "price": 300
+      "name": "Gentle Facial Cleanser",
+      "category": "Cosmetics",
+      "price": 18
     },
     {
       "id": 11,
-      "name": "Colorful Dizzy Socks",
-      "category": "Dizzy socks",
-      "price": 310
+      "name": "Fresh Linen Room Spray",
+      "category": "Perfumes",
+      "price": 20
     },
     {
       "id": 12,
-      "name": "Patterned Novelty Socks",
-      "category": "Dizzy socks",
-      "price": 320
+      "name": "Deep Hydration Body Lotion",
+      "category": "Cremes",
+      "price": 22
     },
-
     {
       "id": 13,
-      "name": "Great Sunglasses",
-      "category": "Women's sunglasses",
-      "price": 70
+      "name": "Illuminating Face Primer",
+      "category": "Cosmetics",
+      "price": 15
     },
     {
       "id": 14,
-      "name": "Blue Sunglasses",
-      "category": "Women's sunglasses",
-      "price": 80
+      "name": "Exotic Flower Perfume",
+      "category": "Perfumes",
+      "price": 35
     },
     {
       "id": 15,
-      "name": "Red Sunglasses",
-      "category": "Women's sunglasses",
-      "price": 90
+      "name": "Revitalizing Night Cream",
+      "category": "Cremes",
+      "price": 28
     }
   ]
 }
