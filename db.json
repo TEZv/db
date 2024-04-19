@@ -7,9 +7,9 @@
         "bg": ""
       },
       "image": "../assets/products/balancing-tone-laneige.jpg",
-      "name": "Balancing tone of Laneige",
+      "name": "Balancing Tone of Laneige",
       "price": 98,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+      "description": "A gentle balancing toner that hydrates and preps your skin for the day ahead.",
       "stars": 3,
       "category": 4
     },
@@ -20,9 +20,9 @@
         "bg": "sold"
       },
       "image": "../assets/products/body-lotion-necessaire.jpg",
-      "name": "Body lotion of Necessaire",
+      "name": "Body Lotion of Necessaire",
       "price": 130,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+      "description": "A nourishing body lotion that leaves your skin soft and smooth with a refreshing scent.",
       "stars": 5,
       "category": 7
     },
@@ -33,9 +33,9 @@
         "bg": "new"
       },
       "image": "../assets/products/body-oil-im-fabulous.jpg",
-      "name": "Body oil of I'm Fabulous",
+      "name": "Body Oil of I'm Fabulous",
       "price": 105,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+      "description": "A luxurious body oil that hydrates and pampers your skin for a radiant glow.",
       "stars": 4,
       "category": 1
     },
@@ -46,9 +46,9 @@
         "bg": ""
       },
       "image": "../assets/products/condition-mask-the-how-shop.jpg",
-      "name": "Condition mask of The how shop",
+      "name": "Condition Mask of The How Shop",
       "price": 91,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+      "description": "A deep conditioning mask that revitalizes and restores dry, damaged hair.",
       "stars": 1,
       "category": 3
     },
@@ -59,9 +59,9 @@
         "bg": "sale"
       },
       "image": "../assets/products/hydrating-toner-botanical-republic.jpg",
-      "name": "Hydrating toner of Botanical republic",
+      "name": "Hydrating Toner of Botanical Republic",
       "price": 50,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+      "description": "A soothing hydrating toner that refreshes and preps skin for further skincare steps.",
       "stars": 0,
       "category": 4
     },
@@ -74,7 +74,7 @@
       "image": "../assets/products/perfume-chanel-gabrielle.jpg",
       "name": "Perfume of Chanel Gabrielle",
       "price": 159,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+      "description": "An elegant fragrance with floral and fruity notes, perfect for a sophisticated touch.",
       "stars": 5,
       "category": 5
     },
@@ -87,7 +87,7 @@
       "image": "../assets/products/perfume-chanel-number-5.jpg",
       "name": "Perfume of Chanel Number 5",
       "price": 169,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+      "description": "An iconic fragrance with timeless floral and woody notes for a classic allure.",
       "stars": 4,
       "category": 5
     },
@@ -100,7 +100,7 @@
       "image": "../assets/products/perfume-ginger-white.jpg",
       "name": "Perfume of Ginger White",
       "price": 120,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+      "description": "A fresh and captivating scent with hints of ginger and white flowers.",
       "stars": 3,
       "category": 5
     },
@@ -113,7 +113,7 @@
       "image": "../assets/products/perfume-leau-laurissi.jpg",
       "name": "Perfume of L'eau Laurissi",
       "price": 100,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+      "description": "A refreshing fragrance with aquatic and floral notes for a vibrant experience.",
       "stars": 5,
       "category": 5
     },
@@ -126,7 +126,7 @@
       "image": "../assets/products/perfume-miss-dior.jpg",
       "name": "Perfume of Miss Dior",
       "price": 88,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+      "description": "A feminine and enchanting fragrance with floral and citrusy notes.",
       "stars": 5,
       "category": 5
     },
@@ -139,7 +139,7 @@
       "image": "../assets/products/perfume-narciso-rodriguez.jpg",
       "name": "Perfume of Narciso Rodriguez",
       "price": 75,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+      "description": "A sensual fragrance with a musky and woody base, perfect for a night out.",
       "stars": 0,
       "category": 5
     },
@@ -150,9 +150,9 @@
         "bg": "new"
       },
       "image": "../assets/products/pet-cbd-oil-not-pot.jpg",
-      "name": "Pet CBD oil of NOT POT",
+      "name": "Pet CBD Oil of NOT POT",
       "price": 200,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+      "description": "A high-quality CBD oil for pets that supports their health and well-being.",
       "stars": 2,
       "category": 2
     },
@@ -163,9 +163,9 @@
         "bg": "sale"
       },
       "image": "../assets/products/tone-up-2ndesign.jpg",
-      "name": "Tone up of 2ndesign",
+      "name": "Tone Up of 2ndesign",
       "price": 210,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+      "description": "An advanced formula for achieving an even skin tone and a radiant complexion.",
       "stars": 5,
       "category": 4
     },
@@ -178,7 +178,7 @@
       "image": "../assets/products/treatment-cbd-nora.jpg",
       "name": "Treatment CBD of Nora",
       "price": 55,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+      "description": "A nourishing CBD treatment for skin and hair, providing a calming effect.",
       "stars": 4,
       "category": 2
     },
@@ -191,7 +191,7 @@
       "image": "../assets/products/vitamin-sanitizer-marshol.jpg",
       "name": "Vitamin Sanitizer of Marshol",
       "price": 77,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut ullamcorper leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus. Vestibulum ultricies aliquam convallis.",
+      "description": "A vitamin-enriched sanitizer that cleanses and nourishes skin while disinfecting.",
       "stars": 5,
       "category": 6
     }
@@ -201,43 +201,50 @@
       "id": 1,
       "image": "../assets/category/body-oil-im-fabulous.jpg",
       "section": "Body & Face Oils",
-      "name": "Body oils"
+      "name": "Body oils",
+      "description": "High-quality oils for body and face, designed to nourish and hydrate the skin."
     },
     {
       "id": 2,
       "image": "../assets/category/pet-cbd-oil-not-pot.jpg",
       "name": "Pet CBD oils",
-      "section": "Body & Face Oils"
+      "section": "Body & Face Oils",
+      "description": "Safe and effective CBD oils for pets to promote health and wellness."
     },
     {
       "id": 3,
       "name": "Condition masks",
       "image": "../assets/category/condition-mask-the-how-shop.jpg",
-      "section": "Hair & Deep Clean"
+      "section": "Hair & Deep Clean",
+      "description": "Nourishing masks to repair and revitalize hair for a healthy appearance."
     },
     {
       "id": 4,
       "image": "../assets/category/hydrating-toner-botanical-republic.jpg",
       "name": "Toners",
-      "section": "Body & Face Toners"
+      "section": "Body & Face Toners",
+      "description": "Refreshing toners to balance the skin and prep it for further treatment."
     },
     {
       "id": 5,
       "image": "../assets/category/perfume-chanel-gabrielle.jpg",
       "name": "Perfumes",
-      "section": "Perfumes & Girls"
+      "section": "Perfumes & Girls",
+      "description": "A selection of exquisite perfumes that leave a lasting impression."
     },
     {
       "id": 6,
       "image": "../assets/category/vitamin-sanitizer-marshol.jpg",
       "name": "Vitamin sanitizers",
-      "section": "Body & Deep Clean"
+      "section": "Body & Deep Clean",
+      "description": "Vitamin-infused sanitizers that cleanse and nourish the skin while disinfecting."
     },
     {
       "id": 7,
       "image": "../assets/category/shower-gel-because-its-you.jpg",
       "name": "Shower gels",
-      "section": "Body & Deep Clean"
+      "section": "Body & Deep Clean",
+      "description": "Luxurious shower gels that cleanse and moisturize the skin for a refreshing bath experience."
     }
   ]
 }
