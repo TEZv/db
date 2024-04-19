@@ -4,7 +4,7 @@
       "id": 1,
       "badge": {
         "title": "",
-        "bg": ""
+        "bg": "primary"
       },
       "image": "../assets/products/balancing-tone-laneige.jpg",
       "name": "Balancing tone of Laneige",
@@ -17,7 +17,7 @@
       "id": 2,
       "badge": {
         "title": "Sold",
-        "bg": "sold"
+        "bg": "primary"
       },
       "image": "../assets/products/body-lotion-necessaire.jpg",
       "name": "Body lotion of Necessaire",
